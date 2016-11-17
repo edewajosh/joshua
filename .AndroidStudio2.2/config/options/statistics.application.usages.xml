@@ -1,0 +1,164 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="List" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.repo.sync.NOT_DECIDED" collectionTime="1479308943194" />
+      <project id="avd" values="config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1477059627714" />
+      <project id="WALISHAKUBALI" values="config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.warn.about.crlf.enabled" collectionTime="1477414743128" />
+      <project id="Versatile" values="config.ssh.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH" collectionTime="1478725024304" />
+      <project id="BUSHBUCKS" values="config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.save.policy.STASH,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1478721936549" />
+      <project id="fullback" values="config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled" collectionTime="1477083291586" />
+      <project id="LINEARLAYOUT" values="config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.save.policy.STASH" collectionTime="1477512152029" />
+      <project id="friendlychat" values="config.warn.about.detached.enabled,config.save.policy.STASH,data.remotes.in.project.1,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.1" collectionTime="1479131810180" />
+      <project id="edewa" values="config.force.push.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled" collectionTime="1479288148771" />
+      <project id="RecyclerView2" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled" collectionTime="1479132125345" />
+      <project id="MEDBIT" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1477079491923" />
+      <project id="Vangaurd" values="config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.ssh.enabled" collectionTime="1476532163826" />
+      <project id="HANGOUT" values="config.warn.about.detached.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled" collectionTime="1478960690679" />
+      <project id="MovieActivity" values="config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1476809631408" />
+      <project id="Fragments" values="config.save.policy.STASH,config.push.update.all.roots.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1479287384090" />
+      <project id="Destination254" values="config.warn.about.detached.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.2+,config.repo.sync.NOT_DECIDED,data.local.branches.count.0,config.force.push.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.0,config.ssh.enabled" collectionTime="1479320297256" />
+      <project id="Picasso" values="config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled" collectionTime="1479224547277" />
+      <project id="listview" values="config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.0,data.remotes.in.project.2+,config.save.policy.STASH,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,data.remote.branches.count.0" collectionTime="1479283157687" />
+      <project id="RECYCLERVIEW" values="config.push.autoupdate.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled" collectionTime="1477120383967" />
+      <project id="androidstudyjam" values="data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,config.save.policy.STASH,config.push.autoupdate.disabled" collectionTime="1477655288339" />
+      <project id="BESTFRIEND" values="config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.force.push.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT" collectionTime="1478786123803" />
+    </group>
+    <group name="vcs">
+      <project id="androidstudyjam" values="Git" collectionTime="1477655287948" />
+      <project id="friendlychat" values="Git" collectionTime="1479131809966" />
+      <project id="Destination254" values="Git" collectionTime="1479320296654" />
+      <project id="BESTFRIEND" values="Git" collectionTime="1478786123053" />
+      <project id="listview" values="Git" collectionTime="1479283157165" />
+    </group>
+    <group name="frameworks">
+      <project id="MovieActivity" values="android,android-gradle,java-gradle" collectionTime="1476809630701" />
+      <project id="androidstudyjam" values="java-gradle,android,android-gradle" collectionTime="1477655287948" />
+      <project id="WALISHAKUBALI" values="android-gradle,android,java-gradle" collectionTime="1477414742796" />
+      <project id="Versatile" values="android-gradle,android,java-gradle" collectionTime="1478725023736" />
+      <project id="BUSHBUCKS" values="android,java-gradle,android-gradle" collectionTime="1478721936267" />
+      <project id="List" values="java-gradle,android-gradle,android" collectionTime="1479308941785" />
+      <project id="LINEARLAYOUT" values="android-gradle,java-gradle,android" collectionTime="1477512151432" />
+      <project id="friendlychat" values="android" collectionTime="1479131809966" />
+      <project id="edewa" values="java-gradle,android,android-gradle" collectionTime="1479288148553" />
+      <project id="RecyclerView2" values="android,android-gradle,java-gradle" collectionTime="1479132125142" />
+      <project id="MEDBIT" values="android-gradle,android,java-gradle" collectionTime="1477079491559" />
+      <project id="Vangaurd" values="java-gradle,android-gradle,android" collectionTime="1476532156452" />
+      <project id="HANGOUT" values="java-gradle,android-gradle,android" collectionTime="1478960690101" />
+      <project id="fullback" values="android,android-gradle,java-gradle" collectionTime="1477083291461" />
+      <project id="Fragments" values="java-gradle,android-gradle,android" collectionTime="1479287383501" />
+      <project id="Destination254" values="android,java-gradle,android-gradle" collectionTime="1479320296655" />
+      <project id="Picasso" values="android,java-gradle,android-gradle" collectionTime="1479224546773" />
+      <project id="listview" values="java-gradle,android,android-gradle" collectionTime="1479283157168" />
+      <project id="RECYCLERVIEW" values="java-gradle,android,android-gradle" collectionTime="1477120383750" />
+      <project id="BESTFRIEND" values="android-gradle,android,java-gradle" collectionTime="1478786123053" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="Fragments" values="AndroidRunConfigurationType" collectionTime="1479287383506" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="MovieActivity" values="AndroidRunConfigurationType" collectionTime="1476809630719" />
+      <project id="androidstudyjam" values="AndroidRunConfigurationType" collectionTime="1477655287964" />
+      <project id="WALISHAKUBALI" values="AndroidRunConfigurationType" collectionTime="1477414742796" />
+      <project id="Versatile" values="AndroidRunConfigurationType" collectionTime="1478725023736" />
+      <project id="List" values="AndroidRunConfigurationType" collectionTime="1479308941862" />
+      <project id="LINEARLAYOUT" values="AndroidRunConfigurationType" collectionTime="1477512151448" />
+      <project id="fullback" values="AndroidRunConfigurationType" collectionTime="1477083291461" />
+      <project id="RecyclerView2" values="AndroidRunConfigurationType" collectionTime="1479132125142" />
+      <project id="MEDBIT" values="AndroidRunConfigurationType" collectionTime="1477079491564" />
+      <project id="Vangaurd" values="AndroidRunConfigurationType" collectionTime="1476532156549" />
+      <project id="HANGOUT" values="AndroidRunConfigurationType" collectionTime="1478960690101" />
+      <project id="Fragments" values="AndroidRunConfigurationType" collectionTime="1479287383506" />
+      <project id="Destination254" values="AndroidRunConfigurationType" collectionTime="1479320296658" />
+      <project id="Picasso" values="AndroidRunConfigurationType" collectionTime="1479224546775" />
+      <project id="listview" values="AndroidRunConfigurationType" collectionTime="1479283157174" />
+      <project id="RECYCLERVIEW" values="AndroidRunConfigurationType" collectionTime="1477120383750" />
+      <project id="BESTFRIEND" values="AndroidRunConfigurationType" collectionTime="1478786123053" />
+    </group>
+    <group name="language-level">
+      <project id="List" values="JDK_1_7,JDK_1_8" collectionTime="1479308943158" />
+      <project id="avd" values="JDK_1_6" collectionTime="1477059627711" />
+      <project id="WALISHAKUBALI" values="JDK_1_7" collectionTime="1477414743127" />
+      <project id="Versatile" values="JDK_1_7" collectionTime="1478725024299" />
+      <project id="BUSHBUCKS" values="JDK_1_8,JDK_1_7" collectionTime="1478721936547" />
+      <project id="fullback" values="JDK_1_7" collectionTime="1477083291586" />
+      <project id="LINEARLAYOUT" values="JDK_1_7" collectionTime="1477512151951" />
+      <project id="friendlychat" values="JDK_1_8" collectionTime="1479131810179" />
+      <project id="edewa" values="JDK_1_7,JDK_1_8" collectionTime="1479288148771" />
+      <project id="RecyclerView2" values="JDK_1_7" collectionTime="1479132125345" />
+      <project id="MEDBIT" values="JDK_1_8,JDK_1_7" collectionTime="1477079491915" />
+      <project id="Vangaurd" values="JDK_1_7" collectionTime="1476532163482" />
+      <project id="HANGOUT" values="JDK_1_7" collectionTime="1478960690679" />
+      <project id="MovieActivity" values="JDK_1_8,JDK_1_7" collectionTime="1476809631378" />
+      <project id="Fragments" values="JDK_1_7" collectionTime="1479287384058" />
+      <project id="Destination254" values="JDK_1_7" collectionTime="1479320297223" />
+      <project id="Picasso" values="JDK_1_7" collectionTime="1479224547273" />
+      <project id="listview" values="JDK_1_7" collectionTime="1479283157630" />
+      <project id="RECYCLERVIEW" values="JDK_1_7" collectionTime="1477120383965" />
+      <project id="androidstudyjam" values="JDK_1_7" collectionTime="1477655288323" />
+      <project id="BESTFRIEND" values="JDK_1_7" collectionTime="1478786123756" />
+    </group>
+    <group name="file-type">
+      <project id="List" values="Properties,Images,AIDL,ARCHIVE,IDEA_MODULE,ProGuard File,Groovy,UNKNOWN,XML,PLAIN_TEXT,JAVA" collectionTime="1479308942711" />
+      <project id="avd" values="XML,UNKNOWN,IDEA_MODULE,PLAIN_TEXT" collectionTime="1477059627682" />
+      <project id="WALISHAKUBALI" values="Images,JAVA,Groovy,PLAIN_TEXT,IDEA_MODULE,ARCHIVE,Properties,ProGuard File,XML,AIDL,UNKNOWN" collectionTime="1477414743122" />
+      <project id="Versatile" values="ProGuard File,XML,JAVA,IDEA_MODULE,Properties,AIDL,UNKNOWN,Images,ARCHIVE,Groovy,PLAIN_TEXT" collectionTime="1478725024081" />
+      <project id="BUSHBUCKS" values="Images,XML,PLAIN_TEXT,Groovy,ProGuard File,JAVA,IDEA_MODULE,Properties,ARCHIVE,AIDL" collectionTime="1478721936516" />
+      <project id="fullback" values="XML,Images,PLAIN_TEXT,Groovy,JAVA,Properties,AIDL,ARCHIVE,ProGuard File,UNKNOWN,IDEA_MODULE" collectionTime="1477083291586" />
+      <project id="LINEARLAYOUT" values="UNKNOWN,JAVA,ProGuard File,IDEA_MODULE,Properties,PLAIN_TEXT,XML,AIDL,Groovy,Images,ARCHIVE" collectionTime="1477512151760" />
+      <project id="friendlychat" values="IDEA_MODULE,JAVA,Images,XML" collectionTime="1479131810175" />
+      <project id="edewa" values="JAVA,IDEA_MODULE,PLAIN_TEXT,ProGuard File,Properties,ARCHIVE,AIDL,Groovy,Images,XML" collectionTime="1479288148770" />
+      <project id="RecyclerView2" values="ARCHIVE,PLAIN_TEXT,UNKNOWN,ProGuard File,AIDL,Properties,XML,Images,IDEA_MODULE,JAVA,Groovy" collectionTime="1479132125329" />
+      <project id="MEDBIT" values="IDEA_MODULE,ARCHIVE,Properties,XML,Images,JAVA,AIDL,UNKNOWN,Groovy,PLAIN_TEXT,ProGuard File" collectionTime="1477079491804" />
+      <project id="Vangaurd" values="JAVA,Images,Groovy,PLAIN_TEXT,ARCHIVE,UNKNOWN,IDEA_MODULE,XML,Properties,AIDL,ProGuard File" collectionTime="1476532160608" />
+      <project id="HANGOUT" values="Groovy,UNKNOWN,PLAIN_TEXT,XML,Images,AIDL,ARCHIVE,ProGuard File,JAVA,IDEA_MODULE,Properties" collectionTime="1478960690586" />
+      <project id="MovieActivity" values="Groovy,JAVA,UNKNOWN,XML,IDEA_MODULE,PLAIN_TEXT,AIDL,ProGuard File,ARCHIVE,Images,Properties" collectionTime="1476809631246" />
+      <project id="Fragments" values="Properties,AIDL,ARCHIVE,ProGuard File,JAVA,Groovy,PLAIN_TEXT,XML,Images,IDEA_MODULE" collectionTime="1479287383938" />
+      <project id="Destination254" values="IDEA_MODULE,AIDL,ARCHIVE,Properties,JAVA,PLAIN_TEXT,Groovy,ProGuard File,XML,Images" collectionTime="1479320297125" />
+      <project id="Picasso" values="IDEA_MODULE,Groovy,XML,PLAIN_TEXT,Images,Properties,JAVA,ProGuard File,ARCHIVE,AIDL,UNKNOWN" collectionTime="1479224547227" />
+      <project id="listview" values="JAVA,XML,ARCHIVE,Images,Properties,Groovy,PLAIN_TEXT,ProGuard File,JSON,AIDL,IDEA_MODULE" collectionTime="1479283157574" />
+      <project id="RECYCLERVIEW" values="PLAIN_TEXT,Images,ARCHIVE,Properties,UNKNOWN,IDEA_MODULE,JAVA,XML,Groovy,AIDL,ProGuard File" collectionTime="1477120383964" />
+      <project id="androidstudyjam" values="Groovy,ARCHIVE,AIDL,ProGuard File,XML,Images,PLAIN_TEXT,JAVA,IDEA_MODULE,Properties" collectionTime="1477655288260" />
+      <project id="BESTFRIEND" values="ARCHIVE,XML,ProGuard File,AIDL,PLAIN_TEXT,UNKNOWN,JAVA,Properties,Images,IDEA_MODULE,Groovy" collectionTime="1478786123553" />
+    </group>
+    <group name="module type">
+      <project id="List" values="JAVA_MODULE" collectionTime="1479308941788" />
+      <project id="avd" values="JAVA_MODULE" collectionTime="1477059627531" />
+      <project id="WALISHAKUBALI" values="JAVA_MODULE" collectionTime="1477414742796" />
+      <project id="Versatile" values="JAVA_MODULE" collectionTime="1478725023736" />
+      <project id="BUSHBUCKS" values="JAVA_MODULE" collectionTime="1478721936267" />
+      <project id="fullback" values="JAVA_MODULE" collectionTime="1477083291461" />
+      <project id="LINEARLAYOUT" values="JAVA_MODULE" collectionTime="1477512151432" />
+      <project id="friendlychat" values="JAVA_MODULE" collectionTime="1479131809966" />
+      <project id="edewa" values="JAVA_MODULE" collectionTime="1479288148553" />
+      <project id="RecyclerView2" values="JAVA_MODULE" collectionTime="1479132125142" />
+      <project id="MEDBIT" values="JAVA_MODULE" collectionTime="1477079491559" />
+      <project id="Vangaurd" values="JAVA_MODULE" collectionTime="1476532156471" />
+      <project id="HANGOUT" values="JAVA_MODULE" collectionTime="1478960690101" />
+      <project id="MovieActivity" values="JAVA_MODULE" collectionTime="1476809630701" />
+      <project id="Fragments" values="JAVA_MODULE" collectionTime="1479287383502" />
+      <project id="Destination254" values="JAVA_MODULE" collectionTime="1479320296656" />
+      <project id="Picasso" values="JAVA_MODULE" collectionTime="1479224546774" />
+      <project id="listview" values="JAVA_MODULE" collectionTime="1479283157169" />
+      <project id="RECYCLERVIEW" values="JAVA_MODULE" collectionTime="1477120383750" />
+      <project id="androidstudyjam" values="JAVA_MODULE" collectionTime="1477655287948" />
+      <project id="BESTFRIEND" values="JAVA_MODULE" collectionTime="1478786123053" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="7" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="114" />
+      <entry feature="ide.settings.Project_Structure" count="2" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="46" />
+      <entry feature="terminal.win" count="4" />
+      <entry feature="tips.of.the.day.next" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="15" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.GoogleCloudTools.SampleImport" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="2" />
+    </counts>
+  </component>
+</application>
