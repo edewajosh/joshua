@@ -1,0 +1,45 @@
+<application>
+  <component name="FeatureUsageStatistics" first-run="1476514562961" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="refactoring.rename" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickFix" count="12" last-shown="0" last-used="1479201093152" shown-count="0" />
+    <feature id="codeassists.altInsert" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="4" last-shown="0" last-used="1479305171718" shown-count="0" />
+    <feature id="codeassists.parameterInfo" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="1476528519563" last-used="0" shown-count="2" />
+    <feature id="editing.completion.basic" count="982" last-shown="0" last-used="1479463555256" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.convertToLiteral" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="97" last-shown="0" last-used="1479463725161" shown-count="0" />
+    <feature id="navigation.class.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="1" last-shown="0" last-used="1477117541133" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="0" last-shown="1479462788693" last-used="0" shown-count="630" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.localize" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="1476528519563" last-used="0" shown-count="2" />
+    <feature id="refactoring.inlineLocalVar" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="2" last-shown="0" last-used="1477857194199" shown-count="0" />
+    <feature id="refactoring.appCodeIntroduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.convertToMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="9618" />
+      <option name="invocations" value="848" />
+      <option name="startDate" value="1476478800000" />
+      <option name="dayCount" value="16" />
+      <option name="lastDate" value="1479416400000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="12" />
+      <option name="startDate" value="1476478800000" />
+      <option name="dayCount" value="6" />
+      <option name="lastDate" value="1479157200000" />
+    </fixesStatsTag>
+  </component>
+</application>
